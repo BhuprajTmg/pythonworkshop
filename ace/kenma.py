@@ -1,3 +1,4 @@
+#To add three number
 name= input("enter your name:")
 age= int(input("enter age:"))
 
